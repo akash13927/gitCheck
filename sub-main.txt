@@ -1,4 +1,3 @@
-sub main with changes
-
+so this are the change which I make in sub-main it should be reflected in main
 
 ok do this then u r done
